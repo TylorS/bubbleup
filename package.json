@@ -1,6 +1,6 @@
 {
   "name": "bubbleup",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Zero-config tooling",
   "bin": {
     "bubbleup": "lib/cli.js"
